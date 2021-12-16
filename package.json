@@ -1,0 +1,14 @@
+{
+  "name": "hife-stuf",
+  "version": "1.0.0",
+  "description": "my first git webshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jermaine van Triest",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
